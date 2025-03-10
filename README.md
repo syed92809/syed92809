@@ -1,25 +1,36 @@
 # Hey there! I'm Syed 👋
 
-Welcome to my GitHub! I'm a passionate software developer who loves building cool stuff, and exploring new tech. Stick around to check out my projects and contributions!
+Welcome to my GitHub! I'm a passionate software developer who loves building cool stuff and exploring new tech. Stick around to check out my projects and contributions!
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on: Some exciting project.
-- 🌱 Learning: Devops, python, Node
-- - 💡 Fun fact: I once debugged a tricky bug at 3 AM with nothing but coffee and determination
+- 🔭 Currently working on: Some exciting project
+- 🌱 Learning: DevOps, Python, Node
+- 💡 Fun fact: I once debugged a tricky bug at 3 AM with nothing but coffee and determination
 - 📫 Reach me: syed92809@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## 🚀Projects
+## 🚀 Projects
 - Check out my [portfolio](https://faizan-portfolio-57.vercel.app/) to view the projects I’ve worked on!
 
 ---
