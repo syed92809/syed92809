@@ -57,7 +57,7 @@ I'm a dedicated Full Stack Developer with over two years of experience specializ
 ---
 
 ## 🚀 Projects
-- Check out my [portfolio](https://faizansportfolio.crevado.com) to view the projects I’ve worked on!
+- Check out my [portfolio](https://faizan-portfolio-57.vercel.app/) to view the projects I’ve worked on!
 
 ---
 
