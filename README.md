@@ -6,7 +6,7 @@ I'm a dedicated Full Stack Developer with over two years of experience specializ
 
 ## 🌟 About Me
 - 🔭 Currently working on: Building scalable backend solutions at Sybex Lab
-- 🌱 Learning: DevOps, Python, Node
+- 🌱 Learning: DevOps
 - 📫 Reach me: syed92809@gmail.com
 
 ---
