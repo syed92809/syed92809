@@ -54,6 +54,10 @@ I'm a dedicated Full Stack Developer with over two years of experience specializ
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=syed92809&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 ## 📊 GitHub Stats
 ![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed92809&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syed92809&layout=compact&theme=radical)
